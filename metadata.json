@@ -1,0 +1,10 @@
+{
+  "name": "FitSayar",
+  "description": "Kamera ile gerçek zamanlı şınav, mekik ve squat sayan yapay zeka destekli egzersiz koçu ve tekrar sayacı.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
